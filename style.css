@@ -369,3 +369,42 @@ letter-spacing: 0.32px;
     width: 1340px;
 height: 100.33px;
 }
+.footer{
+    width: 1340px;
+height: 171.564px;
+flex-shrink: 0;
+background: var(--opacity-1, #F7EEEC);
+}
+.pomo1{
+    display: flex;
+}
+.tal1{
+    display: flex;
+width: 73px;
+height: 24.079px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: var(--dark, #333);
+/* Main text */
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+}
+.tal2{
+    display: flex;
+width: 73px;
+height: 24.079px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: var(--dark, #333);
+/* Main text */
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+}
