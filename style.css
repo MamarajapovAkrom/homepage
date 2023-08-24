@@ -1,0 +1,131 @@
+.avto{
+    width: 593.108px;
+color: #18A7A7;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; 
+margin-top: 100px;
+margin-left: 151px;
+}
+.nachala{
+    margin-top: 54px;
+    margin-left: 150px;
+    width: 360px;
+height: 136px;
+flex-shrink: 0;
+border-radius: 10px;
+background: rgba(45, 121, 121, 0.05);
+display: flex;
+}
+.vechi{
+    color: var(--dark, #333);
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%;
+margin-top: 15px;
+margin-left: 15px;
+}
+.zaji{
+    width: 174px;
+    color: var(--opacity-2, #867777);
+    /* Forms & signaturs */
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin-top: 57px;
+    margin-left: -50px;
+}
+.lay{
+    width: 174px;
+    height: 136px;
+    display: block;
+}
+.masla{
+    width: 360px;
+height: 282px;
+flex-shrink: 0;
+border-radius: 10px;
+background: rgba(45, 121, 121, 0.05);
+margin-top: 10px;
+margin-left: 150px;
+display: flex;
+}
+.torn{
+    color: var(--dark, #333);
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; 
+margin-top: 30px;
+margin-left: 29px;
+}
+.nak{
+    width: 174px;
+color: var(--opacity-2, #867777);
+/* Forms & signaturs */
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+margin-left: 29px;
+margin-top: -10px;
+}
+.l1{
+    display: inline-flex;
+padding: 10px 30px;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+border-radius: 5px;
+border: 1px solid #18A7A7;
+}
+.l1 h2{
+    color: #18A7A7;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+}
+.l4{
+    display: inline-flex;
+padding: 10px 30px;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+border-radius: 5px;
+border: 1px solid #18A7A7;
+}
+.l4 h2{
+    color: #18A7A7;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+}
+.l5{
+    display: inline-flex;
+padding: 10px 30px;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+border-radius: 5px;
+border: 1px solid #18A7A7;
+}
+.l5 h2{
+    color: #18A7A7;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+}
